@@ -33,7 +33,7 @@ func main() {
 
 	var nn NeuronNetwork
 	nn.newNN()
-	//nn.executeNN()
+	nn.executeNN()
 
 	//test := ""
 
